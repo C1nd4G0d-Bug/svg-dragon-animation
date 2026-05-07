@@ -21,3 +21,11 @@ La estructura del dragón sigue dinámicamente el movimiento del cursor(mouse) m
 
 ## 📜 Créditos
 Basado originalmente en el arte e idea del clásico de Flash: **Dragon** por *GifHaas* en DeviantArt.
+
+## 🎯 Próximas Mejoras (Roadmap)
+
+En el futuro, me gustaría expandir este proyecto añadiendo:
+* **Soporte para Pantallas Táctiles:** Optimizar los eventos `pointermove` para que la experiencia sea igual de fluida en dispositivos móviles y tablets.
+* **Personalización de Colores:** Un panel de control (UI) para que el usuario pueda cambiar los gradientes del dragón en tiempo real.
+* **Efectos de Sonido:** Audio ambiental o efectos de sonido interactivos generados dinámicamente al mover al dragón(suena genial, no?).
+* **Modo Estela:** Dejar un rastro de partículas vectoriales ligeras cuando el dragón se mueva rápido.
