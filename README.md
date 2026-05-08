@@ -29,3 +29,8 @@ En el futuro, me gustaría expandir este proyecto añadiendo:
 * **Personalización de Colores:** Un panel de control (UI) para que el usuario pueda cambiar los gradientes del dragón en tiempo real.
 * **Efectos de Sonido:** Audio ambiental o efectos de sonido interactivos generados dinámicamente al mover al dragón(suena genial, no?).
 * **Modo Estela:** Dejar un rastro de partículas vectoriales ligeras cuando el dragón se mueva rápido.
+## ✉️ Contacto
+
+Si tienes alguna duda o sugerencia sobre este proyecto, no dudes en escribirme:
+* **Email:** goldcindaquil@gmail.com
+* **Instagram:** [@0xMAG1C](https://www.instagram.com/0xMAG1C/)
